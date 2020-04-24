@@ -23,7 +23,7 @@
   "devDependencies": {
     "big-integer": "^1.6.17",
     "broccoli-asset-rev": "2.4.2",
-    "ember-ajax": "0.7.1",
+    "ember-ajax": "5.0.0",
     "ember-bootstrap": "0.10.0",
     "ember-browserify": "^1.1.10",
     "ember-cli": "2.5.0",
